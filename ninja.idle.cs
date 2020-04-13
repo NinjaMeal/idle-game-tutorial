@@ -117,7 +117,7 @@ public class IdleGame : MonoBehaviour
         }
         else
         {
-            clickUpgrade1LevelString = "Coins: " + clickUpgrade1Level.ToString("F0");
+            clickUpgrade1LevelString = clickUpgrade1Level.ToString("F0");
         }
 
         clickUpgrade1Text.text = "Click Upgrade 1\nCost: " + clickUpgrade1CostString + " Coins\nPower: +1 Click\nLevel: " + clickUpgrade1LevelString;
