@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-//After Episode 5
+//After completing Episode 5 - Basic Save and Load
 
 public class IdleGame : MonoBehaviour
 {
